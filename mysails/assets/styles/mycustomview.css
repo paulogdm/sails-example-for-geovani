@@ -1,0 +1,17 @@
+body{
+	background-color: #37474F;
+}
+
+body:hover{
+	background-color: #0D47A1;
+	transition: all 5s ease-in;
+}
+
+h1{
+	color: white;
+}
+
+h1:hover{
+	color: #F48FB1;
+	transition: all 5s ease-in;
+}
